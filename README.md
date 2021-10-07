@@ -1,16 +1,4 @@
-# Columbia-Blue
-
-
-## The Project of **\_\_\_**
-
-###### Gotta figure that one out
-
-
-Carson Sernick
-James Blackburn
-Xinchen Li
-Kevin Liao
-Avidan Loike
+## The Project of
 Chelsea Zhang
-Irene Skandalakis
+
 
